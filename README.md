@@ -2,7 +2,6 @@
 # Olá, me chamo Felipe Caruso! 👋
 
 ## Sobre Mim
-- 👨‍🏫 Apaixonado pelo ensino e tecnologia.
 - 👨‍🏫 Professor de Robótica, Programação e Pensamento Computacional.
 - 👨‍💻 Desenvolvedor entusiasta.
 - 🎓 Formação em Licenciatura em Inforática.
@@ -32,3 +31,9 @@
 - [LinkedIn](https://www.linkedin.com/in/felipe-carusoo/)
 - [Instagram](https://www.instagram.com/felipecarusoo/)
 - Email: carusofelipe@hotmail.com
+
+## ⚡ Curiosidade
+
+- 👨‍🏫 Apaixonado pelo ensino e tecnologia.
+- 📈 Acadêmico de Ciências Econômicas.
+- 🌍 Formado em Geografia.
