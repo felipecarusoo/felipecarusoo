@@ -2,19 +2,25 @@
 # Olá, me chamo Felipe Caruso! 👋
 
 ## Sobre Mim
-- 👨‍💻 Desenvolvedor entusiasta.
 - 👨‍🏫 Apaixonado pelo ensino e tecnologia.
 - 👨‍🏫 Professor de Robótica, Programação e Pensamento Computacional.
+- 👨‍💻 Desenvolvedor entusiasta.
 - 🎓 Formação em Licenciatura em Inforática.
 - 🎓 Pos Graduado em Aprendizagem criativa e Pensamento Computacional
 
-## 🔭 Atualmente Trabalhando Em
-- Desenvolvimento de projetos web interativos.
-- Explorando técnicas de aprendizado de máquina.
+## Atualmente Trabalhando em:
+- Desenvolvimento de projetos pessoais.
+- Explorando novas metodologias de ensino em programação, robótica e pensamento computacional.
 
-## 🌱 Atualmente Aprendendo
-- Frameworks de front-end modernos.
+## Atualmente estudando na Alura:
+- Jornada de HardSkills.
+- Análise e projeto de Sistemas.
 - Ciência de Dados e análise de dados.
+- Programação Mobile.
+- Games e programação.
+- Front-end.
+- Java.
+- Pyton.
 
 ## 💼 Habilidades
 - Linguagens de programação: Python, JavaScript.
@@ -22,27 +28,7 @@
 - Banco de Dados: SQL, MongoDB.
 - Ferramentas: Git, VS Code.
 
-## 🛠️ Projetos Destacados
-- [Projeto 1](link_para_projeto1) - Breve descrição do Projeto 1.
-- [Projeto 2](link_para_projeto2) - Breve descrição do Projeto 2.
-
 ## 📫 Como me Encontrar
-- [LinkedIn](https://www.linkedin.com/in/seunome/)
-- [Twitter](https://twitter.com/seutwitter)
-- Email: seuemail@example.com
-
-## ⚡ Curiosidade
-- Sou um entusiasta de astronomia nas horas vagas! 🌌
-
-<!-- Estatísticas do GitHub -->
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seuusername&show_icons=true&theme=radical)
-
-<!-- Linguagens Mais Usadas -->
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seuusername&layout=compact&theme=radical)
-
-<!-- Contribuições -->
-## 🤝 Contribuições em Projetos de Código Aberto
-- Contribuição no projeto [Nome do Projeto](link_para_projeto).
-
-<!-- Créditos -->
-#### Créditos: [Modelo Original](link_para_modelo_original)
+- [LinkedIn](https://www.linkedin.com/in/felipe-carusoo/)
+- [Instagram](https://www.instagram.com/felipecarusoo/)
+- Email: carusofelipe@hotmail.com
