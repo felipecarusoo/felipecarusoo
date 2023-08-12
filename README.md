@@ -25,7 +25,7 @@
 - Linguagens de programação: Python, JavaScript.
 - Frameworks: React, Flask.
 - Banco de Dados: SQL, MongoDB.
-- Ferramentas: Git, VS Code.
+- Ferramentas: Git, VS Code, Arduino.cc.
 
 ## 📫 Como me Encontrar
 - [LinkedIn](https://www.linkedin.com/in/felipe-carusoo/)
