@@ -1,10 +1,12 @@
 <!-- Título -->
-# Olá, eu sou [Seu Nome]! 👋
+# Olá, me chamo Felipe Caruso! 👋
 
-## 🧐 Sobre Mim
+## Sobre Mim
 - 👨‍💻 Desenvolvedor entusiasta.
-- 🌍 Explorador do mundo do código.
-- 🎓 Formação em Ciência da Computação.
+- 👨‍🏫 Apaixonado pelo ensino e tecnologia.
+- 👨‍🏫 Professor de Robótica, Programação e Pensamento Computacional.
+- 🎓 Formação em Licenciatura em Inforática.
+- 🎓 Pos Graduado em Aprendizagem criativa e Pensamento Computacional
 
 ## 🔭 Atualmente Trabalhando Em
 - Desenvolvimento de projetos web interativos.
