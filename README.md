@@ -22,7 +22,7 @@
 - Pyton.
 
 ## 💼 Habilidades
-- Linguagens: Python, HTML, Css, JavaScript, C++.
+- Linguagens: Python, HTML, Css, JavaScript, C++, php, ruby.
 - Frameworks: React, Flask.
 - Banco de Dados: SQL, MongoDB.
 - Ferramentas: Git, VS Code, Arduino.cc.
