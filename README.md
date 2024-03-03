@@ -4,7 +4,7 @@
 ## Sobre Mim
 - 👨‍🏫 Professor de Robótica, Programação e Pensamento Computacional.
 - 👨‍💻 Desenvolvedor entusiasta.
-- 🎓 Formação em Licenciatura em Inforática.
+- 🎓 Formação em Ciência da Computação.
 - 🎓 Pos Graduado em Aprendizagem criativa e Pensamento Computacional
 
 ## Atualmente Trabalhando em:
@@ -36,4 +36,5 @@
 
 - 👨‍🏫 Apaixonado pelo ensino e tecnologia.
 - 📈 Acadêmico de Ciências Econômicas.
+- Mestrando em Informática - PUCPR
 - 🌍 Formado em Geografia.
