@@ -19,7 +19,7 @@
 - Games e programação.
 - Front-end.
 - Java.
-- Pyton.
+- Python.
 
 ## 💼 Habilidades
 - Linguagens: Python, HTML, Css, JavaScript, C++, php, ruby.
