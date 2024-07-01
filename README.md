@@ -6,6 +6,7 @@
 - 👨‍💻 Desenvolvedor entusiasta.
 - 🎓 Formação em Ciência da Computação.
 - 🎓 Pos Graduado em Aprendizagem criativa e Pensamento Computacional
+- 🎓 Mestrando em Informática 
 
 ## Atualmente Trabalhando em:
 - Desenvolvimento de projetos pessoais.
