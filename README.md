@@ -2,25 +2,17 @@
 # Olá, me chamo Felipe Caruso! 👋
 
 ## Sobre Mim
-- 👨‍🏫 Professor de Robótica, Programação e Pensamento Computacional.
+- 👨‍🏫 Formador de professores (Pensamento Computacional, JavaScript)
+- 👨‍🏫 Professor de Robótica, Programação e Pensamento Computacional SEED-PR.
 - 👨‍💻 Desenvolvedor entusiasta.
 - 🎓 Formação em Ciência da Computação.
-- 🎓 Pos Graduado em Aprendizagem criativa e Pensamento Computacional
-- 🎓 Mestrando em Informática 
+- 🎓 Pos Graduado em Aprendizagem criativa e Pensamento Computacional.
+- 🎓 Mestrando em Informática.
 
 ## Atualmente Trabalhando em:
 - Desenvolvimento de projetos pessoais.
 - Explorando novas metodologias de ensino em programação, robótica e pensamento computacional.
 
-## Atualmente estudando na Alura:
-- Jornada de HardSkills.
-- Análise e projeto de Sistemas.
-- Ciência de Dados e análise de dados.
-- Programação Mobile.
-- Games e programação.
-- Front-end.
-- Java.
-- Python.
 
 ## 💼 Habilidades
 - Linguagens: Python, HTML, Css, JavaScript, C++, php, ruby.
@@ -37,5 +29,4 @@
 
 - 👨‍🏫 Apaixonado pelo ensino e tecnologia.
 - 📈 Acadêmico de Ciências Econômicas.
-- Mestrando em Informática - PUCPR
 - 🌍 Formado em Geografia.
