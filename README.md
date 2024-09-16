@@ -2,7 +2,7 @@
 # Olá, me chamo Felipe Caruso! 👋
 
 ## Sobre Mim
-- 👨‍🏫 Formador de professores (Pensamento Computacional, JavaScript).
+- 👨‍🏫 Formador de professores (Pensamento Computacional, Front - End (html, css e javaScript).
 - 👨‍🏫 Professor de Robótica, Programação e Pensamento Computacional SEED-PR.
 - 👨‍💻 Desenvolvedor entusiasta.
 - 🎓 Formação em Ciência da Computação.
